@@ -12,6 +12,7 @@ project.lock.json
 *.user
 *.userosscache
 *.sln.docstates
+*.exe
 
 # Build results
 [Dd]ebug/
@@ -35,3 +36,4 @@ msbuild.wrn
 *.com
 *.class
 *.dll
+*.exe
