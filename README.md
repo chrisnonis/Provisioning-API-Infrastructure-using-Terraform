@@ -6,4 +6,4 @@ Terraform used to build image.
 
 Pushed to Azure Devops and using Azure Devops pipeline to build docker image.
 
-Webhook test to slack
+
